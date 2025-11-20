@@ -1,0 +1,7 @@
+organization=nitesh09nck
+projectKey=maven-comp-project
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.76685
+dashboardUrl=https://sonarcloud.io/dashboard?id=maven-comp-project
+ceTaskId=AZqcngAeZ3zWmS2DdBX5
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZqcngAeZ3zWmS2DdBX5
