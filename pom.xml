@@ -12,7 +12,7 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <sonar.projectKey>my-app</sonar.projectKey>
+        <sonar.projectKey>maven-comp-proj</sonar.projectKey>
     </properties>
 
     <dependencies>
